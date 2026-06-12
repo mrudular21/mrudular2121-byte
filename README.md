@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mrudula 👋
 
-<!--
-**mrudular2121-byte/mrudular2121-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Telecommunication Engineering Student
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Full Stack Development
+- Data Analytics
+- AI/ML
+
+## Education
+- B.E. Electronics & Telecommunication
+- BMS Institute of Technology & Management
+- CGPA: 7.98
+
+## Certifications
+- Data Analytics
+- Image Processing using MATLAB
